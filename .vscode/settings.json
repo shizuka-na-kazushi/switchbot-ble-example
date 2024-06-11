@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.embeddedhtml": "html",
+    "functional": "cpp",
+    "esp32-hal-bt.h": "c"
+  }
+}
