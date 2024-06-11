@@ -48,3 +48,7 @@ MACアドレスは、SwitchBotアプリで調べることができます。
 [SwitchBot人感センサー](https://www.switchbot.jp/products/switchbot-motion-sensor)に関するコード（クラス）も含んでいます。(SwitchbotDevice.h参照)
 使い方は開閉センサーと同様です。
 
+## 解説記事
+
+以下のブログに解説記事を書きました。こちらも合わせてご覧下さい。
+* [SwitchBot API BLEを使う　スマートホームの救世主か？遅延がないから快適！](https://tech-landlord.com/articles/switchbot-api-ble-helps-realize-low-latency-smart-home/)
